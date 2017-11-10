@@ -1,0 +1,24 @@
+{
+  "name": "hubspot-coding",
+  "version": "1.0.0",
+  "description": "Code Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yichenzi/hubspot-coding.git"
+  },
+  "author": "Haodan Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yichenzi/hubspot-coding/issues"
+  },
+  "homepage": "https://github.com/Yichenzi/hubspot-coding#readme",
+  "dependencies": {
+    "dedupe": "^2.1.0",
+    "got": "^7.1.0",
+    "moment": "^2.19.1"
+  }
+}
